@@ -10,6 +10,10 @@ A Chrome extension template built with TypeScript, React, and Webpack.
 - Content script and background script support
 - Built-in CSS support
 
+[Extension Demo](screenshots/ref_1.png)
+[Extension Demo](screenshots/ref_2.png)
+[Extension Demo](screenshots/ref_3.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
