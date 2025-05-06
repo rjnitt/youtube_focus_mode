@@ -1,3 +1,8 @@
+# About This Youtube Focus Mode (YMF) 
+The Extension is designed to help users regain focus and reduce distractions while browsing YouTube. It achieves this by allowing you to hide or disable various YouTube interface elements that are engineered to keep users watching. These include the homepage feed, sidebar recommendations, comments,  and more.
+
+YFM is fully customizable — you can choose exactly which features to disable. For example, you might hide the homepage but keep comments visible. This flexibility makes it more user-friendly than simple ad blockers or productivity tools.
+
 # Chrome Extension Template
 
 A Chrome extension template built with TypeScript, React, and Webpack.
