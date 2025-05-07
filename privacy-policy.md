@@ -17,7 +17,6 @@ This Privacy Policy explains how the YouTube Focus Mode extension ("we", "our", 
 •	Host Permissions: Required to interact with YouTube pages and apply focus mode features.
 •	Storage: Used to save user preferences locally.
 •	activeTab: Allows the extension to interact with the current YouTube tab when activated by the user.
-•	Scripting: Enables the execution of scripts necessary for modifying YouTube pages.
 
 # Data Sharing and Security
 •	We do not share, sell, or distribute your information to third parties.

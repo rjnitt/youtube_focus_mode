@@ -10,8 +10,7 @@
   "description": "Remove distractions from YouTube",
   "permissions": [
     "storage",
-    "activeTab",
-    "scripting"
+    "activeTab"
   ],
   "host_permissions": [
     "*://*.youtube.com/*"
